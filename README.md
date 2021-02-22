@@ -1,7 +1,7 @@
 # Node-Express-Handlebars
 # By Merdad Karkudi
 
-<img href="https://github.com/mkarkuody/Node-Express-Handlebars/blob/main/public/assets/img/MainPage.jpg?raw=true">
+<img src="https://github.com/mkarkuody/Node-Express-Handlebars/blob/main/public/assets/img/MainPage.jpg?raw=true">
 
 
 project repository link : https://github.com/mkarkuody/Node-Express-Handlebars
