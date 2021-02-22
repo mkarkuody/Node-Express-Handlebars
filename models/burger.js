@@ -19,6 +19,7 @@ const burgers = {
     }
     )}
   };
+  
 
 // Export the db functions for burgers_controller.js
 module.exports = burgers;

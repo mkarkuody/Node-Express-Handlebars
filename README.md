@@ -1,15 +1,14 @@
 # Node-Express-Handlebars
 # By Merdad Karkudi
 
-<img src="YourName.jpg">
+<img src="./public/assets//Demo\ Video/burgertrio.jpg">
 
-<img src="result.jpg">
 
 project repository link : https://github.com/mkarkuody/Node-Express-Handlebars
 
-project link : https://mkarkuody.github.io/yourName/
+project link in Heroku : https://eat-de-burger77.herokuapp.com/
 
-video of application demo: https://uwseafsfpt082ohb6168.slack.com/files/U0194AT5ZRC/F01DVQEAE1E/your_name.mp4
+video of application demo: https://github.com/mkarkuody/Node-Express-Handlebars/blob/main/public/assets/Demo%20Video/Eat%20That%20Burger!.mp4
 It is so essential to Keep order in restaurant they way costumer wants and as we all know sometime costumer needs to avoid or reorder his/her food. So I did create an app to keep tracking the costumers orders and the follow up orders.
 
 ## Technologies ;
